@@ -1,0 +1,23 @@
+.row{
+    /*height: 9vh;*/
+    height: 70px;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-orange{
+    background-color: orange;
+
+}
+
+.bg-white{
+    background-color: white;
+
+}
+
+.bg-yellow{
+    background-color: yellow;
+
+}
